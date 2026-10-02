@@ -13,7 +13,7 @@ public class The_coffee_addict {
         this.activeCreature = starter;
     }
 
-//adding a change for testing. huge big big change
+//adding a change for testing. huge big big change, ahhhhhhhhhhhhhhhhhhhh
 
 
     public void fight(Creatures_and_coffee starter, Creatures_and_coffee enemy, int conditional) {
